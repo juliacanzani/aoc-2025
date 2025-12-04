@@ -1,0 +1,7 @@
+{
+  "name": "aoc-2025",
+  "type": "module",
+  "scripts": {
+    "day": "node scripts/run.js"
+  }
+}
